@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/muhammed-tefx">taurus_bot</a> to 
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## Click whatsapp logo and get the password from group discription
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fd0KPblop-k)
+ [![ANY DOUBT REFER IT](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL)
 
 
   ### Simple Method
@@ -72,7 +72,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-tefx&repo=taurus_bot&theme=nightowl)](https://github.com/muhammed-tefx/taurus_bot)
