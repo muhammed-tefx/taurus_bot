@@ -8,8 +8,8 @@
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
     "env": {
-        "TAURUS BOT_CODE": {
-            "description": "Type the code when you got by scanning QR through WhatsApp its assena_session.",
+        "TAURUS_CODE": {
+            "description": "Type the code when you got by scanning QR through WhatsApp its amalser_code.",
             "required": true
         },
         "SUDO": {
