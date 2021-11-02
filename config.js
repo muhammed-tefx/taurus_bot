@@ -28,8 +28,8 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
-    ALL: process.env.ALL_CAPTION === undefined ? 'Made By Amalser' : process.env.ALL_CAPTION,
-    MENTION: process.env.TAG_REPLY === undefined ? '919072790587@s.whatsapp.net' : process.env.TAG_REPLY,
+    ALL: process.env.ALL_CAPTION === undefined ? 'Made By TAURUS BOT' : process.env.ALL_CAPTION,
+    MENTION: process.env.TAG_REPLY === undefined ? '919961050829@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     AFPLK: process.env.YT_PASSWORD === undefined ? false : process.env.YT_PASSWORD,
@@ -62,7 +62,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    YAK: process.env.YAK === undefined ? '918921483992,0' : process.env.YAK,
+    YAK: process.env.YAK === undefined ? '919961050829,0' : process.env.YAK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -76,7 +76,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
+    SUPPORT: "919961050829-1635775355",
+    SUPPORT2: "8157849715-1617736751",
     SUPPORT3: "905511384572-1621015274"
 };
